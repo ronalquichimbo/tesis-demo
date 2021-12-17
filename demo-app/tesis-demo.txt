@@ -1,0 +1,11 @@
+tesis-demo
+    
+381171775042.dkr.ecr.us-east-1.amazonaws.com/tesis-demo
+
+tesis-demo-cluster
+tesis-demo-service
+
+
+AKIAVRP43WZBG63CGNOT
+
+C7EI6PuNFrgQNeuySfmhqQcRZw/yDPd2YtNolllK
